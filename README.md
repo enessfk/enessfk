@@ -26,7 +26,7 @@
 ### <img src="https://user-images.githubusercontent.com/52351749/127751174-7b5a530a-1b9f-4d0c-acd3-1aeac7dab558.gif" width="45px"> About Me : 
 
 - 🔭 I’m currently working on something cool 😉
-- 🌱 I’m currently learning .NET, React and Cybersecurity
+- 🌱 I’m currently learning Spring, React and Cybersecurity
 - 💬 Ask me about anything Java/Python/C#/JavaScript or Django/Symfony/Angular/Ionic
 - 📫 How to reach me: **eneskeskinfk@gmail.com**
 - 😄 Pronouns: He/Him
