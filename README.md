@@ -37,6 +37,7 @@
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://user-images.githubusercontent.com/52351749/127752109-ffe5c01c-d84c-4bf8-8a2d-0ab6776862a0.png" alt="c#" width="55" height="55"/>
       <img src="https://user-images.githubusercontent.com/52351749/127752433-8c8cc395-62d0-4713-b1ee-7c6c622ab95b.png" alt="c" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
